@@ -1,3 +1,9 @@
 .manrope{
     font-family: "Manrope", sans-serif;
 }
+/* new project style */
+.project{
+    background-image: url(../assets/bg.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
